@@ -88,4 +88,80 @@ surprising surprised
 
 
 Text
+Pumas are large, cat-like animals which are founded in America. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were taken seriously. However, as the evidence began to accumulate, experts from the Zoo felt obliged investigate, for the descriptions given by people who claimed have seen the puma were extraordinarily similar.
+
+The hunt for the puma began in a small village where a woman picking blackberries saw ‘a large cat’ only five yards away from her. It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered. The search proved difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening. Wherever it went, it left behind it a trail of dead deer and small animals like rabbits. Paw prints were seen in a number of places and puma fur was found clinging to bushes. Several people complained of ‘cat-like noises’ at night and a businessman on a fishing trip saw the puma up a tree. The experts were now fully convinced that the animal was a puma, but where had it come from? As no puma had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape. The hunt went on for several weeks, but the puma was not caught. It is disturbing to think that a dangerous wild animal is still at large in the quite countryside.
+
 at large: 逃遁的，没有被控制的；详细的(in detail)；总体来讲(as a whole)
+
+在英文的表达中，受限呈献给读者的是结果。写议论文的时候要注意把握观点。
+
+Pandas are large, cat-like animals which are found in Asia.
+life-like: 栩栩如生的
+
+一般来讲定语从句和同为语从句紧随在被修饰名词后面，但为了保持句子平和，也可以把谓语动词放到从句之前
+
+定语从句只是对于被修饰词的补充说明 修饰
+同位语从句则是讲述被修饰名词的内容
+
+定于葱郁的引导词:
+    指人: 主语 who; 宾语: who/whom; 定于: whose
+    表达事物: that(也可以指人)/which
+    时间状语: when; 地点状语: where; 原因状语: why
+同为语从句: 名词作主语 宾语等，关系词用that而不是which
+    时间 - when; 地点 - where
+An idea came to her that she might do the experiment in another way.
+I have no idea what has happened to him.
+定语从句中没有what这个关系词，但它可以引导同位语从句
+
+take sth. seriously: deal with sth. seriously
+take sth. lightly
+
+as: 随着
+
+过去分词做定语
+
+声称曾经做过某事: claim to have done sth.
+
+I still remember the school where I studied English.
+
+confirm: be sure, be certain
+
+search = hunt
+
+把某物留在后面: leave behind
+
+英文的表达方式重点在于突出客观事实，而中文则善于御用动作的执行者
+
+complain of/ about: 抱怨
+
+on+名词: 强调动作正在进行
+on the rise: 在上升
+on the increase: 在增加
+on the watch: 在观看
+on the match: 在比赛中
+on the fishing trip: 在钓鱼途中
+on holiday: 在度假
+
+full: completely, entirely
+
+in the possession of=in sb.'s possession 归某人所有
+in possession of 拥有某物
+The beautiful car is in my possession/in the possession of me.
+I am in possession of the beautiful car.
+take possession of 拥有
+The person in possession of the big house is excited.
+
+It is disturbing to think that...
+
+at large
+take something seriously
+cling to
+leave behind
+complain of
+in the possession of/in possession of
+feel obliged to investigate
+a woman picking blackberries
+a businessman on a fishing trip
+go on for several weeks
+in the quiet countryside
