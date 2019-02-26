@@ -84,12 +84,120 @@ a full-length dress 曳地长裙
 
 19. graceful adj. 优雅的
 a graceful lady
-elegant (behavier)
+elegant (behavior)
 
 20. identity n. 身份
 
 
 Text
+Some time ago, an interesting discovery was made by archaeologists on the Aegean Island of Kea. An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini. The city at one time must have been prosperous, for it enjoyed a high level of civilization. Houses – often three storeys high – were built of stone. They had large rooms with beautifully decorated walls. The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.
+
+The temple which the archaeologists explored was used as a place of worship from the fifteenth century  B.C. until Roman times. In the most sacred room of the temple, clay fragments of fifteen statues were found. Each of these represented a goddess and had, at one time, been painted. The body of one statue was found among remains dating from the fifteenth B.C. Its missing head happened to be among remains of the fifth century B.C. This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman. She stood three feet high and her hands rested on her hips. She was wearing a full-length skit which swept the ground. Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.
+
+an interesting discovery: 强调discovery，体现发现这个动作被考古学家做出
+主动语态难以突出重点 archaeologists made an interesting discovery
+英文表达: 事件 结果 影响 效果为主语，强调对客观事实的陈述
+
+An American team explored a temple which......
+which 引导定语从句，修饰限定temple
+which stands in an ancient city on......
+which = that; stand = lie, situate(vt.), locate(vt.)
+An American team explored a temple which is located/situated in......
+An American team explored a temple which is lies in......
+stand 表示高高坐落于，矗立于
+She stands 1.75m./A great tree stands on the mountain.
+
+The city at onetime must have been prosperous, for it...
+for引导原因状语从句，对主句的附加说明
+because引导原因状语从句，重点突出原因
+Eg.: The day broke for the birds were singing.
+at one time 表达曾经，一度：过去时态的标志. once
+must have been 对过去事实肯定的推测
+
+enjoyed a high level of civilization 享有高度文明
+
+with......
+a young man with broad shoulders/an old lady with black hair
+
+beautifully decorated 过去分词做定语
+a beautifully dressed lady 衣着漂亮的女士/a deserted carpark 废弃的停车场
+a white painted door 被粉刷成白色的门
+
+现在分词做定语，被修饰词与修饰词之间为逻辑主动关系
+a body climbing the tree/the students reading in the room
+
+The city was even equipped with... for... were found...
+be equipped with 配备，装备
+the car was equipped with air conditioning
+
+for 引导原因状语从句
+
+beneath the narrow streets/under the narrow streets
+prep. beneath=under 正下方
+He is standing under/beneath the umbrella.
+under 在进行中: under control 控制之中; under discussion 讨论之中; under repairs 修理中
+
+The temple which...
+be used as/be used to be 把...用作为: be used to do
+The box was used as a desk in the small village school.
+The wooden box was used as a bookcase.
+The wooden box is used to contain books.
+
+In the most sacred room of...
+Each of these represented ... been painted
+represent vt. 代表
+I represent all the classmates.
+
+The body of one statue was found...
+dating 现在分词，修饰remains
+The custom dating from 1990
+The tradition dates from the time when his grandfather was young.
+The castle dates from the 14th century.
+The castle dates back to the 14th century.
+
+Its missing head happened to be among remains of ...
+Happen to 强调事情的偶然发生
+I happen to have driven that kind of car.
+He happened to find the ticket in his pocket.
+句式：It happens that ...
+It happened that I met her on my way to work.
+I happened to meet her on my way work.
+Happen on 巧遇，偶遇
+I happened on this old picture in the back of the drawer.
+Guess, who I happened on while I was in London last month?
+
+reconstruct: put together, piece together, restore
+
+amazed: very much surprised
+surprised, astonished, amazed, astounded 赶到惊讶的，语气递增
+Astonished: much surprised; amazed: very much surprised 惊奇; astounded 非常惊讶 惊愕 惊奇
+to find .../to discover .../ to realize ...
+I'm not surprised to see you here.
+
+turn out 表示结果: prove 都是系动词
+turn out (to be) +n./adj.
+The concert turned out to be a failure.
+Our party turned out (to be) a success.
+It turned out that ...
+that从句，或者其它名词从句：it作形式主语
+It turned out that the diamonds had been in the bank all the time.
+It turned out that his statement was false.
+as it turns out
+Eg.: As it turned out, there was no need to worry.
+Eg.: As it turned out, the report was mistaken.
+
+She stood three feed high and her hands rested on her hips.
+rest on = depend on, lean on
+His hand rested lightly on my shoulder.
+
+Which swept the ground 进一步说明拖地的，曳地的
+
+despite/in spite of + n./动名词
+
+It is still a problem for the archaeologists up to now.
+so far, up to now 完成时标志
+
+discover her identity: find out here identity
 
 
 Special difficulties
