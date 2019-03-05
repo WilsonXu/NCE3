@@ -54,6 +54,8 @@ statue 雕像，塑像
 Text
 These days, people who do manual work often receive far more money than people who work in offices. People who work in offices are frequently referred to as ‘white-collar workers’ for the simple reason that they usually wear a collar and tie to go to work. Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar works. This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for Ellesmere Corporation.
 
+When he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation. Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman. Before returning home at night, he took a shower and changed back into his suit. Alf did this for over two years and his fellow dustmen kept his secret. Alf’s wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office. He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. From now on, he will wear a suit all day and others will call him ‘Mr. Bloggs’, not ‘Alf’.
+
 people who do manual work => blue-collar workers
 people who work in offices/do mental work => white-collar workers
 
@@ -67,5 +69,87 @@ for the simple reason => for引导的原因状语从句
 He is referred to as bookworm for the simple reason that he spares no efforts on reading.
 for the reason that 比because正式，因此多用于正式问题
 
+human nature
+
+such ... that ...
+that引导同为语从句，进一步补充说明such的基本内涵
+His kindness was such that we will never forget him.
+=> Such was his kindness ...
+Such is human nature that we want to get a lot of things free.
+
+介词for表示一种目的
+
+be willing to do sth. = be ready to do sth. 心甘情愿做...
+
+give rise to, lead to, cause: 引起，惹气 = result in
+Such conduct might give rise to misunderstandings.
+The bad conditions have given rise to a lot of crimes.
+
+in the case of: 至于，就...而言 = concerning
+Stealing is no shame in the case of him.
+in case of: (链) 万一，以防
+You should ensure your house in case of fire.
+
+who引导定语从句
+
+too embarrassed to say: 太尴尬而没有说明
+be ashamed of
+
+get married
+marry v. 
+如果强调动作：He married the girl.
+如果表示状态：get married, be married
+如果表明和某人已经结婚多长时间了：be married to sb.
+The old man has been married to his wife for 50 years.
+
+too... to...: 太...而不能
+
+simply: 副词，用来修饰限定动词told
+
+dressed in a smart black suit - 形容词短语表示一种状态
+He got to work dressed in a beautiful coat.
+He left home wearing a smart black suit.
+
+Changed into: 换上
+
+before returning home = before he returned home
+在before引导的时间状语从句中，return的逻辑主语和主句的主语he是保持一致的。所以这个时间状语是由介词before和动名词搭配而成，相当于before引导的时间状语从句。
+如果运用动名词形式，动名词的逻辑主语必须是主句的主语。
+After getting home, he had a good rest.
+Before having dinner, he finished all his homework.
+
+she never will = she will never discover the secret.
+在省略句式中，never要放在助动词之前
+'Will you go to see her?'
+'I will never go to see her./No, I never will.'
+
+has as much as (he used to): 是...的一半
+half (a quarter, twice, three times) as...as... - 表示倍数
+I won't marry a man who is twice as old as me.
+We got three times as many people as we expected.
+This room is about three times as large as that one.
+...as(形容词或副词原型)as...: 是...的几倍
+比...多几倍: ...times(形容词或副词比较级)
+This road is four times longer than that one.
+=>This road is five times as long as that one.
+
+is well worth the loss of money
+What he obtained is well worth the loss of time.
+well副词用来加强语气，修饰形容词worth
+
 
 Special difficulties
+A. 英语中的许多动词不能以人作为宾语，只能代某物或某事，如果需要说明是某人就要用介词to.
+He told a story to me. => He told me a story.
+两类词汇： 
+tell可以和双宾语搭配(指物的直接宾语，指人的简介宾语)
+explain, say只能代一个(直接宾语)， 在间接宾语前要介词to
+She speaks English to her husband and Swedish to her children.
+He admitted this guilt to the police.
+Did you suggest this idea to him?
+当直接宾语比较长或者是个从句时，通常放在间接宾语之后，但say除外。
+I explained to him the impossibility of granting his request.
+He confessed to me that he had fallen asleep during the meeting.
+
+B. "Worth" 后面只能跟名词或动名词
+His suggestion is worth considering.
