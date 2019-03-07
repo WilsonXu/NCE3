@@ -51,6 +51,8 @@ original adj.
 Text
 Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president’s palace in a new African republic. When the article arrived, the editor read the first sentence and the refused to publish it. The article began: ‘Hundreds of steps lead to the high wall which surrounds the president’s palace.’ The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.
 
+The journalist immediately set out to obtain these import facts, but he took a long time to send them. Meanwhile, the editor was getting impatient, for the magazine would soon go to press. He sent the journalist two more faces, but received no reply. He sent yet another fax informing the journalist the if he did not reply soon he would be fired. When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well. However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president’s palace.
+
 go to extremes: 走极端
 
 provide=supply: 给...提供(通常与介词搭配连用)
@@ -64,5 +66,67 @@ The teacher instructed him to take the examination.
 
 on=about 侧重强调课题转移
 a book on radio
+
+When the article arrived = when the editor received the article
+
+refuse to publish it
+refuse: 拒绝(态度严厉)
+decline:  婉言谢绝
+repudiate: 断然拒绝
+
+which指代 the high wall
+
+instructing - 现在分词进一步补充说明fax的情况
+
+set out to = decide and try to do 决定，打算，着手做...
+He set out to make his first 1,000,000 in 5 years.
+set about doing
+
+take sb. a long time to do sth.: 某事花了某人很久的时间
+It took me five days to write the article.
+
+two more faxes = another two faxes
+
+fail to
+
+reluctantly = unwillingly 勉勉强强地，不情愿地
+
+as it had originally been written = in its original way
+
+Not only 位于句首，必须采用倒装形式否定
+The poor man had not only been arrested, but had been sent to prison as well.
+否定副词位于句首，要倒装
+Never have I read such stories.
+Nowhere can he find the book he wants.
+Hardly di I think it possible.
+常见的否定副词: never, seldom, rarely, little, hardly, scarcely, nowhere, no sooner
+含有only的状语位于句首，句子要倒装
+Only then did he realize that he had made a mistake.
+Only when a great deal more information has been obtained will it be possible to plan a trip.
+含有not的副词短语位于句首，句子要倒装
+not for a moment, not in the least, not for a instant, not until
+Not in the least is he interested in English literature.
+Not for an instant did I believe he had lied.
+含有no的短语位于句首，句子要倒装
+at no time, in no way, in no sense, by no means, in no case, on no account, on no condition, under no circumstances "绝不"
+Under on circumstances can we accept the check.
+On no account must you leave the baby in the house.
+so, such 位于句首，句子要倒装
+
+he had last been allowed=he had at last been permitted=he had asked for permission
+请求允许，被允许: be allowed to do, be permitted to do, asked for permission to do sth.
+
+in which - which指代fax
+
+while和现在分词(-ing)搭配，做时间状语，表示"正在做某事的过程中"可以用while引导的时间状语从句去替换
+while he was counting...
+
+现在分词
+the steps leading to the president's palace
+the road leading to the forest
+
+fifteen-foot -- 做前置定语，这里的名词必须是单数形式
+
+which指代wall(避免和前面的句式结构相同)
 
 Special difficulties
